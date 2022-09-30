@@ -1,14 +1,26 @@
+# Ceres
+
+ Sustain the future, Now!
+
+## About the campaign
+
+We aim to help lead the world to building a just and sustainable future for people and the planet. Through our campaign we aim to get people think not just about their individual works towards a sustainable world, but also how they have to power to influence the Economy and Goverments to advance the protection of water rights, Fixing the Global Climate Crisis, building sustainable and just economies in all countries, and holding companies accountable for their failings
+
+## How we plan to accomplish
+
+ We plan to use a promotion site where people can pledge themselves to help start their jounry. We encourage them to choose 1 area and focus on it. By having them select 1 area we hope that people will gravitate towards areas they know they can make the biggest impact and areas that they know about. We hope this will start the motions to get the public interested. We will also have a donation area where people can look up orginizations they work with in their local area to donate to and keep them running
+
+## Our Main Site: [Ceres.org](https://www.ceres.org/)
+
+### Campaign organized and ran by:
+
+ Izzu, Kenneth Rose, Mackenzie Snider
+
+### All rights reserved, Copyright© 2022
+
 # ceres_project
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This project was done as a mockup campaign and is in no way associated with Ceres and it's entities. All images and copy of Ceres belong to Ceres.
 
 ## Project Setup
 
